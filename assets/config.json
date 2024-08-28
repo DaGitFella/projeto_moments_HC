@@ -1,0 +1,5 @@
+{
+  "apiUrl": "https://localhost:333/",
+  "featureFlag": true,
+  "maxItems": 100
+}
